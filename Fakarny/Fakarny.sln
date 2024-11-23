@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fakarny", "Fakarny\Fakarny.csproj", "{95532FDD-B827-43DD-8CEB-0F9D693794B9}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Fakarny Installer", "Fakarny Installer\Fakarny Installer.vdproj", "{A97DC397-8E1C-46A1-B96A-3CCC02931FA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95532FDD-B827-43DD-8CEB-0F9D693794B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95532FDD-B827-43DD-8CEB-0F9D693794B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95532FDD-B827-43DD-8CEB-0F9D693794B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95532FDD-B827-43DD-8CEB-0F9D693794B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A97DC397-8E1C-46A1-B96A-3CCC02931FA8}.Debug|Any CPU.ActiveCfg = Debug
+		{A97DC397-8E1C-46A1-B96A-3CCC02931FA8}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FAC9A32-C5B1-4793-A70C-232AAD78C5B0}
+	EndGlobalSection
+EndGlobal
